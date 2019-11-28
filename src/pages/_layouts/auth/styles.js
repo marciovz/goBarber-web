@@ -34,7 +34,7 @@ export const Content = styled.div`
     }
 
     button {
-      margin: 5px;
+      margin: 5px 0 0;
       height: 44px;
       background: #3b9eff;
       font-weight: bold;
